@@ -1,0 +1,1 @@
+babel --plugins transform-runtime src/babel_runtime.js -o src/babel_runtime_output.js
